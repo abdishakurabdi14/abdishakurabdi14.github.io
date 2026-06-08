@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Abdishakur Abdi
-
 ## Cloud & DevOps Engineer
 
 Final-year Computing student focused on Cloud Engineering, DevOps, Platform Engineering, and Site Reliability Engineering.
