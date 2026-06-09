@@ -5,25 +5,13 @@ email: abdishakurabdi14@gmail.com
 url: "https://abdishakurabdi14.github.io"
 baseurl: ""
 
-github_username: abdishakurabdi14
-linkedin_username: abdishakurabdi152637
-
 theme: jekyll-theme-cayman
-
-header_pages:
-  - projects.md
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-
-show_excerpts: false
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
-
-sass:
-  style: compressed
