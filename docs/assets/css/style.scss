@@ -3,10 +3,70 @@
 
 @import "{{ site.theme }}";
 
-.main-content {
-  max-width: 1200px;
+body {
+  background: #111827;
+  color: #e5e7eb;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 .page-header {
+  background: #111827;
+  color: #fff;
+  padding: 3rem 6rem;
+  text-align: left;
+}
+
+.project-name {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.project-tagline {
+  font-size: 1.5rem;
+  max-width: 700px;
+  color: #d1d5db;
+}
+
+.main-content {
+  max-width: 1200px;
   padding: 4rem 6rem;
+  color: #e5e7eb;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #ffffff;
+}
+
+.main-content h2 {
+  border-bottom: 1px solid #374151;
+  padding-bottom: 0.5rem;
+  margin-top: 3rem;
+}
+
+a {
+  color: #60a5fa;
+}
+
+.btn {
+  background: #6d28d9;
+  color: white !important;
+  border: none;
+  border-radius: 6px;
+  padding: 0.8rem 1.2rem;
+  margin-right: 1rem;
+}
+
+.btn:hover {
+  background: #7c3aed;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #374151;
+}
+
+strong {
+  color: #ffffff;
 }

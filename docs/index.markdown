@@ -1,14 +1,16 @@
 ---
+layout: default
 ---
 
-# Abdishakur Abdi
+# Hi, I'm Abdishakur 👋
 
 ## Cloud & DevOps Engineer
 
 Final-year Computing student building cloud infrastructure, containerised applications, and automated deployment pipelines using AWS, Docker, Terraform, Linux, and CI/CD.
 
-[GitHub](https://github.com/abdishakurabdi14) • [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637) • [Email](mailto:abdishakurabdi14@gmail.com)
+[GitHub](https://github.com/abdishakurabdi14){: .btn } [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn } [Email](mailto:abdishakurabdi14@gmail.com){: .btn }
 
+---
 ---
 
 ## Technical Skills
