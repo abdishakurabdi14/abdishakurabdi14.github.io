@@ -8,7 +8,7 @@ baseurl: ""
 github_username: abdishakurabdi14
 linkedin_username: abdishakurabdi152637
 
-theme: minima
+theme: jekyll-theme-cayman
 
 header_pages:
   - projects.md
