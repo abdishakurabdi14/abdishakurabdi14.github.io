@@ -8,7 +8,10 @@ layout: default
 
 Final-year Computing student building cloud infrastructure, containerised applications, and automated deployment pipelines using AWS, Docker, Terraform, Linux, and CI/CD.
 
-[GitHub](https://github.com/abdishakurabdi14){: .btn } [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn } [Email](mailto:abdishakurabdi14@gmail.com){: .btn }
+[GitHub](https://github.com/abdishakurabdi14){: .btn }
+[LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
+[Download CV](/assets/Abdishakur-Abdi-CV.pdf){: .btn }
+[Email](mailto:abdishakurabdi14@gmail.com){: .btn }
 
 ---
 ---
