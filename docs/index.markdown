@@ -10,7 +10,7 @@ Final-year Computing student building cloud infrastructure, containerised applic
 
 [GitHub](https://github.com/abdishakurabdi14){: .btn }
 [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
-[Download CV](/Users/abd1sh4kur/abdishakurabdi14.github.io/docs/assets/Abdishakur_Abdi_FlowCV_Resume_2026-06-13-2.pdf){: .btn }
+[Download CV](/assets/Abdishakur_Abdi_FlowCV_Resume_2026-06-13-2.pdf){: .btn }
 [Email](mailto:abdishakurabdi14@gmail.com){: .btn }
 
 ---
