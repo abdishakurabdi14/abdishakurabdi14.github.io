@@ -6,7 +6,9 @@ layout: default
 
 ## Cloud & DevOps Engineer
 
-Final-year Computing student building cloud infrastructure, containerised applications, and automated deployment pipelines using AWS, Docker, Terraform, Linux, and CI/CD.
+Final-year Computing student focused on cloud infrastructure, DevOps, platform engineering, and site reliability engineering.
+
+I build containerised applications, automated deployment pipelines, and cloud infrastructure using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD.
 
 [GitHub](https://github.com/abdishakurabdi14){: .btn }
 [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
@@ -14,66 +16,42 @@ Final-year Computing student building cloud infrastructure, containerised applic
 [Email](mailto:abdishakurabdi14@gmail.com){: .btn }
 
 ---
----
 
 ## Technical Skills
 
-### Cloud
-- AWS
-- Google Cloud
+**Cloud & Infrastructure:** AWS, Google Cloud, Terraform, Infrastructure as Code
 
-### DevOps
-- Docker
-- Terraform
-- GitHub Actions
-- CI/CD
+**Containers & Orchestration:** Docker, Docker Compose, AWS ECS Fargate, Kubernetes
 
-### Containers
-- ECS Fargate
-- Kubernetes
-- Docker Compose
+**CI/CD & Automation:** GitHub Actions, Bash, deployment pipelines, OIDC authentication
 
-### Programming
-- Python
-- JavaScript
-- Node.js
-- Bash
+**Programming & Backend:** Python, JavaScript, Node.js, Flask, Express.js, REST APIs
 
-### Systems
-- Linux
-- Git
-- Networking
+**Systems & Operations:** Linux, Git, networking fundamentals, load balancing, health checks, troubleshooting
 
-### Backend
-- Flask
-- Express.js
-- REST APIs
-- JWT Authentication
-- MongoDB
+**Databases:** MongoDB, MySQL
 
 ---
 
 ## Featured Projects
 
-### Automated AWS ECS Deployment Pipeline
+<div class="project-grid">
 
-Built an automated deployment pipeline for a containerised Flask application using AWS ECS Fargate, Terraform, Docker, Amazon ECR, Application Load Balancer, and GitHub Actions.
+<div class="project-card">
+<h3>Automated AWS ECS Deployment Pipeline</h3>
+<p>Built an automated CI/CD deployment pipeline for a containerised Python Flask application using AWS ECS Fargate, Terraform, Docker, Amazon ECR, Application Load Balancer, and GitHub Actions.</p>
+<p><strong>Tech:</strong> AWS ECS, Terraform, Docker, GitHub Actions, ECR, ALB, IAM, OIDC</p>
+<a href="/projects/#automated-aws-ecs-deployment-pipeline">View Project →</a>
+</div>
 
-**Technologies:** AWS ECS, Terraform, Docker, GitHub Actions, ECR, ALB, OIDC
+<div class="project-card">
+<h3>Mingle Backend</h3>
+<p>Built and deployed a containerised Node.js backend for a social/event platform using Express, MongoDB, JWT authentication, Docker Compose, and Google Cloud infrastructure.</p>
+<p><strong>Tech:</strong> Node.js, Express, MongoDB, Docker, Docker Compose, Google Cloud, JWT</p>
+<a href="/projects/#mingle-backend">View Project →</a>
+</div>
 
----
-
-### Mingle Backend
-
-Containerised Node.js backend for a social and event platform using Express, MongoDB, JWT authentication, Docker Compose, and Google Cloud deployment.
-
-**Technologies:** Node.js, Express, MongoDB, Docker, Docker Compose, Google Cloud, JWT
-
----
-
-### DevOps Bootcamp
-
-Hands-on training covering Linux, AWS, Docker, Kubernetes, Terraform, Git, networking, Bash scripting, and CI/CD automation.
+</div>
 
 ---
 
@@ -100,4 +78,4 @@ Expected Graduation: 2026
 
 Currently seeking internships and graduate opportunities in Cloud Engineering, DevOps, Platform Engineering, Site Reliability Engineering, Infrastructure Engineering, and Solutions Engineering.
 
-**Email:** abdishakurabdi14@gmail.com
+**Email:** [abdishakurabdi14@gmail.com](mailto:abdishakurabdi14@gmail.com)
