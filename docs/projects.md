@@ -71,6 +71,10 @@ The final pipeline allows application changes to be pushed from GitHub, built in
 
 This project strengthened my understanding of cloud infrastructure, containers, CI/CD, AWS networking, IAM, and infrastructure troubleshooting.
 
+### Repository
+
+[View GitHub Repository](https://github.com/abdishakurabdi14/aws-ecs-deployment-pipeline){: .btn }
+
 ---
 
 ## Mingle Backend
@@ -137,3 +141,7 @@ Google Cloud VM
 The final application demonstrated a complete backend deployment workflow, from API development and authentication to containerisation and cloud hosting.
 
 This project helped strengthen my backend development, Docker, cloud deployment, and API testing skills.
+
+### Repository
+
+[View GitHub Repository](https://github.com/abdishakurabdi14/mingle-backend){: .btn }

@@ -41,14 +41,20 @@ I build containerised applications, automated deployment pipelines, and cloud in
 <h3>Automated AWS ECS Deployment Pipeline</h3>
 <p>Built an automated CI/CD deployment pipeline for a containerised Python Flask application using AWS ECS Fargate, Terraform, Docker, Amazon ECR, Application Load Balancer, and GitHub Actions.</p>
 <p><strong>Tech:</strong> AWS ECS, Terraform, Docker, GitHub Actions, ECR, ALB, IAM, OIDC</p>
-<a href="/projects/#automated-aws-ecs-deployment-pipeline">View Project →</a>
+<div class="project-links">
+<a href="/projects/#automated-aws-ecs-deployment-pipeline" class="project-btn">View Project →</a>
+<a href="https://github.com/abdishakurabdi14/aws-ecs-deployment-pipeline" class="project-btn" target="_blank">GitHub Repo ↗</a>
+</div>
 </div>
 
 <div class="project-card">
 <h3>Mingle Backend</h3>
 <p>Built and deployed a containerised Node.js backend for a social/event platform using Express, MongoDB, JWT authentication, Docker Compose, and Google Cloud infrastructure.</p>
 <p><strong>Tech:</strong> Node.js, Express, MongoDB, Docker, Docker Compose, Google Cloud, JWT</p>
-<a href="/projects/#mingle-backend">View Project →</a>
+<div class="project-links">
+<a href="/projects/#mingle-backend" class="project-btn">View Project →</a>
+<a href="https://github.com/abdishakurabdi14/mingle-backend" class="project-btn" target="_blank">GitHub Repo ↗</a>
+</div>
 </div>
 
 </div>
