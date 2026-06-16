@@ -1,18 +1,21 @@
-.btn {
+.btn,
+.main-content .btn {
+  display: inline-block;
   background: #6d28d9;
-  color: white !important;
-  border: none;
-  border-radius: 6px;
+  color: #ffffff !important;
+  border: 1px solid #8b5cf6;
+  border-radius: 8px;
   padding: 0.8rem 1.2rem;
-  margin-right: 1rem;
-  margin-bottom: 0.8rem;
-  display: inline-block;
-  text-decoration: none;
+  margin: 0.5rem 0.5rem 0.8rem 0;
+  text-decoration: none !important;
+  font-weight: 700;
 }
 
-.btn:hover {
+.btn:hover,
+.main-content .btn:hover {
   background: #7c3aed;
-  text-decoration: none;
+  color: #ffffff !important;
+  text-decoration: none !important;
 }
 
 .project-grid {
@@ -20,102 +23,4 @@
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
   margin-top: 2rem;
-}
-
-.project-card {
-  background: #1f2937;
-  border: 1px solid #374151;
-  border-radius: 14px;
-  padding: 1.5rem;
-  transition: transform 0.2s ease, border-color 0.2s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-4px);
-  border-color: #8b5cf6;
-}
-
-.project-card h3 {
-  margin-top: 0;
-  color: #ffffff;
-}
-
-.project-card p {
-  color: #d1d5db;
-}
-
-.project-card a {
-  display: inline-block;
-  margin-top: 0.5rem;
-  color: #a78bfa;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.project-card a:hover {
-  text-decoration: underline;
-}
-
-hr {
-  border: none;
-  border-top: 1px solid #374151;
-}
-
-strong {
-  color: #ffffff;
-}
-
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.project-card {
-  background: #1f2937;
-  border: 1px solid #374151;
-  border-radius: 14px;
-  padding: 1.5rem;
-  transition: transform 0.2s ease, border-color 0.2s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-4px);
-  border-color: #8b5cf6;
-}
-
-.project-card h3 {
-  margin-top: 0;
-  color: #ffffff;
-}
-
-.project-card p {
-  color: #d1d5db;
-}
-
-.project-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.8rem;
-  margin-top: 1rem;
-}
-
-.project-btn {
-  display: inline-block;
-  background: #374151;
-  color: white !important;
-  border-radius: 6px;
-  padding: 0.65rem 0.9rem;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.project-btn:hover {
-  background: #4b5563;
-  text-decoration: none;
-}
-
-.project-card a {
-  font-weight: 700;
 }
