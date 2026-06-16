@@ -4,12 +4,11 @@ layout: default
 
 # Hi, I'm Abdishakur 👋
 
-## Cloud, DevOps & Solutions Engineering
+## Cloud, DevOps & Solutions Engineering Candidate
 
 Final-year Computing student focused on cloud infrastructure, DevOps, platform engineering, and solutions engineering.
 
 I build and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD, with an interest in reliable infrastructure, scalable architecture, and customer-focused technical problem solving.
-I build containerised applications, automated deployment pipelines, and cloud infrastructure using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD.
 
 [GitHub](https://github.com/abdishakurabdi14){: .btn }
 [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
@@ -37,6 +36,8 @@ I enjoy both building technical systems and explaining how they work, including 
 **Programming & Backend:** Python, JavaScript, Node.js, Flask, Express.js, REST APIs
 
 **Systems & Operations:** Linux, Git, networking fundamentals, load balancing, health checks, troubleshooting
+
+**Architecture & Communication:** cloud architecture diagrams, technical documentation, deployment walkthroughs, troubleshooting explanations, customer-focused problem solving
 
 **Databases:** MongoDB, MySQL
 
@@ -91,6 +92,6 @@ Expected Graduation: 2026
 
 ## Contact
 
-Currently seeking internships and graduate opportunities in Cloud Engineering, DevOps, Platform Engineering, Site Reliability Engineering, Infrastructure Engineering, and Solutions Engineering.
+Currently seeking internships and graduate opportunities in Cloud Engineering, DevOps, Platform Engineering, Site Reliability Engineering, Infrastructure Engineering, Solutions Engineering, and Cloud Sales Engineering.
 
 **Email:** [abdishakurabdi14@gmail.com](mailto:abdishakurabdi14@gmail.com)
