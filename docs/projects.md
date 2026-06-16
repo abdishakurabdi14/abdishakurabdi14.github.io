@@ -67,9 +67,9 @@ End User
 
 ### Result
 
-The final pipeline allows application changes to be pushed from GitHub, built into a Docker image, stored in Amazon ECR, and deployed automatically to AWS ECS Fargate.
+The final pipeline demonstrated how a code change can move through a modern cloud deployment workflow: GitHub Actions builds the application into a Docker image, pushes it to Amazon ECR, and redeploys the service on AWS ECS Fargate behind an Application Load Balancer.
 
-This project strengthened my understanding of cloud infrastructure, containers, CI/CD, AWS networking, IAM, and infrastructure troubleshooting.
+Beyond the technical build, this project helped me understand how to explain cloud architecture choices, including CI/CD automation, containerisation, IAM/OIDC security, load balancing, health checks, reliability, and operational troubleshooting.
 
 ### Repository
 
@@ -138,9 +138,9 @@ Google Cloud VM
 
 ### Result
 
-The final application demonstrated a complete backend deployment workflow, from API development and authentication to containerisation and cloud hosting.
+The final application demonstrated a complete backend-to-cloud workflow, covering API development, authentication, database integration, containerisation, and deployment to Google Cloud infrastructure.
 
-This project helped strengthen my backend development, Docker, cloud deployment, and API testing skills.
+This project strengthened my ability to explain backend architecture, authentication flows, API design, deployment decisions, and how cloud-hosted services support user-facing applications.
 
 ### Repository
 

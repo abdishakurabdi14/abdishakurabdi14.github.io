@@ -4,16 +4,25 @@ layout: default
 
 # Hi, I'm Abdishakur 👋
 
-## Cloud & DevOps Engineer
+## Cloud, DevOps & Solutions Engineering
 
-Final-year Computing student focused on cloud infrastructure, DevOps, platform engineering, and site reliability engineering.
+Final-year Computing student focused on cloud infrastructure, DevOps, platform engineering, and solutions engineering.
 
+I build and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD, with an interest in reliable infrastructure, scalable architecture, and customer-focused technical problem solving.
 I build containerised applications, automated deployment pipelines, and cloud infrastructure using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD.
 
 [GitHub](https://github.com/abdishakurabdi14){: .btn }
 [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
 [Download CV](/assets/Abdishakur_Abdi_FlowCV_Resume_2026-06-13-2.pdf){: .btn }
 [Email](mailto:abdishakurabdi14@gmail.com){: .btn }
+
+---
+
+## What I'm Looking For
+
+I’m interested in internships and graduate roles across cloud engineering, DevOps, platform engineering, solutions architecture, and cloud sales engineering.
+
+I enjoy both building technical systems and explaining how they work, including deployment pipelines, cloud architecture, infrastructure trade-offs, reliability, security, and cost considerations.
 
 ---
 
