@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Hi, I'm Abdishakur 👋
-
 ## Cloud, DevOps & Solutions Engineering Candidate
 
 Final-year Computing student focused on cloud infrastructure, DevOps, platform engineering, and solutions engineering.
