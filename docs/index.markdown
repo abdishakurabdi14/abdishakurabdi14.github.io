@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Cloud, DevOps & Solutions Engineering Candidate
-
 Final-year Computing student focused on cloud infrastructure, DevOps, platform engineering, and solutions engineering.
 
 I build and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD, with an interest in reliable infrastructure, scalable architecture, and customer-focused technical problem solving.
