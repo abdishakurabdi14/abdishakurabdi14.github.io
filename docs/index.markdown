@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Final-year Computing student focused on cloud infrastructure, DevOps, platform engineering, and solutions engineering.
+Computing graduate (degree award pending) focused on cloud infrastructure, DevOps, platform engineering, and solutions engineering.
 
-I build and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD, with an interest in reliable infrastructure, scalable architecture, and customer-focused technical problem solving.
+I design, build, and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD, with a focus on reliable infrastructure, scalable architecture, and customer-focused technical problem solving.
 
 [GitHub](https://github.com/abdishakurabdi14){: .btn }
 [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
