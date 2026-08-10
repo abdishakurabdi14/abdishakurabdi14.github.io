@@ -8,7 +8,7 @@ I design, build, and explain cloud-based systems using AWS, Docker, Terraform, L
 
 [GitHub](https://github.com/abdishakurabdi14){: .btn }
 [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
-[Download CV](/assets/Abdishakur_Abdi_FlowCV_Resume_2026-06-13-2.pdf){: .btn }
+[Download CV](/assets/MyCV.pdf){: .btn }
 [Email](mailto:abdishakurabdi14@gmail.com){: .btn }
 
 ---
@@ -36,6 +36,8 @@ Continually sharpening skills in the architecture of technical systems and expla
 **Architecture & Communication:** cloud architecture diagrams, technical documentation, deployment walkthroughs, troubleshooting explanations, customer-focused problem solving
 
 **Databases:** MongoDB, MySQL
+
+**AI & Automation:** OpenAI/LLM APIs, Prompt Engineering, Zapier, Claude, Gemini, GitHub Copilot.
 
 ---
 
