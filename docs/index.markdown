@@ -1,8 +1,17 @@
+---
+layout: default
+---
+
 Computing graduate focused on cloud infrastructure, DevOps and solutions engineering.
 
 I design, build and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions and CI/CD, with an emphasis on reliable, repeatable infrastructure and customer-focused technical problem solving.
 
-[GitHub](https://github.com/abdishakurabdi14) [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637) [Download CV](https://abdishakurabdi14.github.io/assets/JobCV.pdf) [Email](mailto:abdishakurabdi14@gmail.com)
+<p class="link-buttons">
+  <a href="https://github.com/abdishakurabdi14">GitHub</a>
+  <a href="https://www.linkedin.com/in/abdishakurabdi152637">LinkedIn</a>
+  <a href="https://abdishakurabdi14.github.io/assets/JobCV.pdf">Download CV</a>
+  <a href="mailto:abdishakurabdi14@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -42,7 +51,10 @@ A CI/CD pipeline that builds a Docker image, pushes it to Amazon ECR and redeplo
 
 **Tech:** AWS ECS Fargate, Terraform, Docker, GitHub Actions, ECR, ALB, IAM, OIDC
 
-[View Project →](https://abdishakurabdi14.github.io/projects/#automated-aws-ecs-deployment-pipeline) [GitHub Repo ↗](https://github.com/abdishakurabdi14/aws-ecs-deployment-pipeline)
+<p class="project-links">
+  <a href="https://abdishakurabdi14.github.io/projects/#automated-aws-ecs-deployment-pipeline">View Project →</a>
+  <a href="https://github.com/abdishakurabdi14/aws-ecs-deployment-pipeline">GitHub Repo ↗</a>
+</p>
 
 ### Mingle Backend
 
@@ -50,14 +62,17 @@ A containerised Node.js backend for a social/event platform using Express, Mongo
 
 **Tech:** Node.js, Express, MongoDB, Docker, Docker Compose, Google Cloud, JWT
 
-[View Project →](https://abdishakurabdi14.github.io/projects/#mingle-backend) [GitHub Repo ↗](https://github.com/abdishakurabdi14/mingle-backend)
+<p class="project-links">
+  <a href="https://abdishakurabdi14.github.io/projects/#mingle-backend">View Project →</a>
+  <a href="https://github.com/abdishakurabdi14/mingle-backend">GitHub Repo ↗</a>
+</p>
 
 ---
 
 ## Education
 
-**BSc (Hons) Computing, Upper Second-Class Honours (2:1)**  
-Birkbeck, University of London  
+**BSc (Hons) Computing, Upper Second-Class Honours (2:1)**<br>
+Birkbeck, University of London<br>
 2022 – 2026
 
 ---
@@ -79,4 +94,4 @@ Alongside DevOps training with CoderCo and my own projects:
 
 Currently seeking opportunities in Cloud Engineering, DevOps, Platform Engineering, Site Reliability Engineering, Infrastructure Engineering, Solutions Engineering and Cloud Sales Engineering.
 
-**Email:** [abdishakurabdi14@gmail.com](mailto:abdishakurabdi14@gmail.com)
+**Email:** <a href="mailto:abdishakurabdi14@gmail.com">abdishakurabdi14@gmail.com</a>
