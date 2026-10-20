@@ -9,7 +9,7 @@ I design, build and explain cloud-based systems using AWS, Docker, Terraform, Li
 <p class="link-buttons">
   <a href="https://github.com/abdishakurabdi14">GitHub</a>
   <a href="https://www.linkedin.com/in/abdishakurabdi152637">LinkedIn</a>
-  <a href="https://abdishakurabdi14.github.io/assets/JobCV.pdf">Download CV</a>
+  <a href="https://abdishakurabdi14.github.io/assets/CV.pdf">Download CV</a>
   <a href="mailto:abdishakurabdi14@gmail.com">Email</a>
 </p>
 
