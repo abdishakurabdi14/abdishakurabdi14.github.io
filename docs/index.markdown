@@ -6,11 +6,11 @@ Computing graduate focused on cloud infrastructure, DevOps and solutions enginee
 
 I design, build and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions and CI/CD, with an emphasis on reliable, repeatable infrastructure and customer-focused technical problem solving.
 
-<p class="link-buttons">
-  <a href="https://github.com/abdishakurabdi14">GitHub</a>
-  <a href="https://www.linkedin.com/in/abdishakurabdi152637">LinkedIn</a>
-  <a href="https://abdishakurabdi14.github.io/assets/CV.pdf">Download CV</a>
-  <a href="mailto:abdishakurabdi14@gmail.com">Email</a>
+<p>
+  <a class="btn" href="https://github.com/abdishakurabdi14">GitHub</a>
+  <a class="btn" href="https://www.linkedin.com/in/abdishakurabdi152637">LinkedIn</a>
+  <a class="btn" href="https://abdishakurabdi14.github.io/assets/CV.pdf">Download CV</a>
+  <a class="btn" href="mailto:abdishakurabdi14@gmail.com">Email</a>
 </p>
 
 ---
@@ -45,27 +45,27 @@ I enjoy understanding how technical systems work and explaining them clearly, in
 
 ## Featured Projects
 
-### Automated AWS ECS Deployment Pipeline
+<div class="project-grid">
+  <div class="project-card">
+    <h3>Automated AWS ECS Deployment Pipeline</h3>
+    <p>A CI/CD pipeline that builds a Docker image, pushes it to Amazon ECR and redeploys a containerised Flask application on AWS ECS Fargate, behind an Application Load Balancer, on every push to main. Workflow runs complete in about 37 seconds. The ECS service, load balancer, target group and security groups are defined in Terraform, and GitHub Actions authenticates to AWS with OIDC instead of long-lived access keys.</p>
+    <p><strong>Tech:</strong> AWS ECS Fargate, Terraform, Docker, GitHub Actions, ECR, ALB, IAM, OIDC</p>
+    <div class="project-links">
+      <a class="project-btn" href="https://abdishakurabdi14.github.io/projects/#automated-aws-ecs-deployment-pipeline">View Project →</a>
+      <a class="project-btn" href="https://github.com/abdishakurabdi14/aws-ecs-deployment-pipeline">GitHub Repo ↗</a>
+    </div>
+  </div>
 
-A CI/CD pipeline that builds a Docker image, pushes it to Amazon ECR and redeploys a containerised Flask application on AWS ECS Fargate, behind an Application Load Balancer, on every push to main. Workflow runs complete in about 37 seconds. The ECS service, load balancer, target group and security groups are defined in Terraform, and GitHub Actions authenticates to AWS with OIDC instead of long-lived access keys.
-
-**Tech:** AWS ECS Fargate, Terraform, Docker, GitHub Actions, ECR, ALB, IAM, OIDC
-
-<p class="project-links">
-  <a href="https://abdishakurabdi14.github.io/projects/#automated-aws-ecs-deployment-pipeline">View Project →</a>
-  <a href="https://github.com/abdishakurabdi14/aws-ecs-deployment-pipeline">GitHub Repo ↗</a>
-</p>
-
-### Mingle Backend
-
-A containerised Node.js backend for a social/event platform using Express, MongoDB, JWT authentication and Docker Compose, deployed on Google Cloud infrastructure.
-
-**Tech:** Node.js, Express, MongoDB, Docker, Docker Compose, Google Cloud, JWT
-
-<p class="project-links">
-  <a href="https://abdishakurabdi14.github.io/projects/#mingle-backend">View Project →</a>
-  <a href="https://github.com/abdishakurabdi14/mingle-backend">GitHub Repo ↗</a>
-</p>
+  <div class="project-card">
+    <h3>Mingle Backend</h3>
+    <p>A containerised Node.js backend for a social/event platform using Express, MongoDB, JWT authentication and Docker Compose, deployed on Google Cloud infrastructure.</p>
+    <p><strong>Tech:</strong> Node.js, Express, MongoDB, Docker, Docker Compose, Google Cloud, JWT</p>
+    <div class="project-links">
+      <a class="project-btn" href="https://abdishakurabdi14.github.io/projects/#mingle-backend">View Project →</a>
+      <a class="project-btn" href="https://github.com/abdishakurabdi14/mingle-backend">GitHub Repo ↗</a>
+    </div>
+  </div>
+</div>
 
 ---
 
