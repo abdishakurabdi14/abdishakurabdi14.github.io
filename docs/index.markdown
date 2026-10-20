@@ -8,7 +8,7 @@ I design, build, and explain cloud-based systems using AWS, Docker, Terraform, L
 
 [GitHub](https://github.com/abdishakurabdi14){: .btn }
 [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
-[Download CV](/assets/JobCV.pdf){: .btn }
+[Download CV](/assets/CV.pdf){: .btn }
 [Email](mailto:abdishakurabdi14@gmail.com){: .btn }
 
 ---
