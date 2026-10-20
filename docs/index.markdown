@@ -1,23 +1,16 @@
----
-layout: default
----
+Computing graduate focused on cloud infrastructure, DevOps and solutions engineering.
 
-Computing graduate focused on cloud infrastructure, DevOps platform and solutions engineering.
+I design, build and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions and CI/CD, with an emphasis on reliable, repeatable infrastructure and customer-focused technical problem solving.
 
-I design, build, and explain cloud-based systems using AWS, Docker, Terraform, Linux, GitHub Actions, and CI/CD, with an emphasis on reliable infrastructure, scalable architecture and customer-focused technical problem solving.
-
-[GitHub](https://github.com/abdishakurabdi14){: .btn }
-[LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637){: .btn }
-[Download CV](/assets/CV.pdf){: .btn }
-[Email](mailto:abdishakurabdi14@gmail.com){: .btn }
+[GitHub](https://github.com/abdishakurabdi14) [LinkedIn](https://www.linkedin.com/in/abdishakurabdi152637) [Download CV](https://abdishakurabdi14.github.io/assets/JobCV.pdf) [Email](mailto:abdishakurabdi14@gmail.com)
 
 ---
 
 ## What I'm Looking For
 
-Opportunities in roles across cloud engineering, DevOps, platform engineering, solutions architecture and cloud sales engineering.
+Roles in cloud engineering, DevOps, platform engineering, solutions engineering and cloud sales engineering.
 
-Continually sharpening skills in the architecture of technical systems and explaining how they work including deployment pipelines, cloud architecture, infrastructure trade-offs, reliability, security and cost considerations.
+I enjoy understanding how technical systems work and explaining them clearly, including deployment pipelines, cloud architecture, infrastructure trade-offs, reliability, security and cost.
 
 ---
 
@@ -25,7 +18,7 @@ Continually sharpening skills in the architecture of technical systems and expla
 
 **Cloud & Infrastructure:** AWS, Google Cloud, Terraform, Infrastructure as Code
 
-**Containers & Orchestration:** Docker, Docker Compose, AWS ECS Fargate, Kubernetes
+**Containers:** Docker, Docker Compose, AWS ECS Fargate
 
 **CI/CD & Automation:** GitHub Actions, Bash, deployment pipelines, OIDC authentication
 
@@ -33,51 +26,45 @@ Continually sharpening skills in the architecture of technical systems and expla
 
 **Systems & Operations:** Linux, Git, networking fundamentals, load balancing, health checks, troubleshooting
 
-**Architecture & Communication:** cloud architecture diagrams, technical documentation, deployment walkthroughs, troubleshooting explanations, customer-focused problem solving
+**Architecture & Communication:** architecture diagrams, technical documentation, deployment walkthroughs, troubleshooting explanations, customer-focused problem solving
 
 **Databases:** MongoDB, MySQL
 
-**AI & Automation:** OpenAI/LLM APIs, Prompt Engineering, Zapier, Claude, Gemini, GitHub Copilot.
+**AI & Automation:** OpenAI/LLM APIs, prompt engineering, Zapier, Claude, Gemini, GitHub Copilot
 
 ---
 
 ## Featured Projects
 
-<div class="project-grid">
+### Automated AWS ECS Deployment Pipeline
 
-<div class="project-card">
-<h3>Automated AWS ECS Deployment Pipeline</h3>
-<p>Built an automated CI/CD deployment pipeline for a containerised Python Flask application using AWS ECS Fargate, Terraform, Docker, Amazon ECR, Application Load Balancer, and GitHub Actions.</p>
-<p><strong>Tech:</strong> AWS ECS, Terraform, Docker, GitHub Actions, ECR, ALB, IAM, OIDC</p>
-<div class="project-links">
-<a href="/projects/#automated-aws-ecs-deployment-pipeline" class="project-btn">View Project →</a>
-<a href="https://github.com/abdishakurabdi14/aws-ecs-deployment-pipeline" class="project-btn" target="_blank">GitHub Repo ↗</a>
-</div>
-</div>
+A CI/CD pipeline that builds a Docker image, pushes it to Amazon ECR and redeploys a containerised Flask application on AWS ECS Fargate, behind an Application Load Balancer, on every push to main. Workflow runs complete in about 37 seconds. The ECS service, load balancer, target group and security groups are defined in Terraform, and GitHub Actions authenticates to AWS with OIDC instead of long-lived access keys.
 
-<div class="project-card">
-<h3>Mingle Backend</h3>
-<p>Built and deployed a containerised Node.js backend for a social/event platform using Express, MongoDB, JWT authentication, Docker Compose, and Google Cloud infrastructure.</p>
-<p><strong>Tech:</strong> Node.js, Express, MongoDB, Docker, Docker Compose, Google Cloud, JWT</p>
-<div class="project-links">
-<a href="/projects/#mingle-backend" class="project-btn">View Project →</a>
-<a href="https://github.com/abdishakurabdi14/mingle-backend" class="project-btn" target="_blank">GitHub Repo ↗</a>
-</div>
-</div>
+**Tech:** AWS ECS Fargate, Terraform, Docker, GitHub Actions, ECR, ALB, IAM, OIDC
 
-</div>
+[View Project →](https://abdishakurabdi14.github.io/projects/#automated-aws-ecs-deployment-pipeline) [GitHub Repo ↗](https://github.com/abdishakurabdi14/aws-ecs-deployment-pipeline)
+
+### Mingle Backend
+
+A containerised Node.js backend for a social/event platform using Express, MongoDB, JWT authentication and Docker Compose, deployed on Google Cloud infrastructure.
+
+**Tech:** Node.js, Express, MongoDB, Docker, Docker Compose, Google Cloud, JWT
+
+[View Project →](https://abdishakurabdi14.github.io/projects/#mingle-backend) [GitHub Repo ↗](https://github.com/abdishakurabdi14/mingle-backend)
 
 ---
 
 ## Education
 
-**BSc Computing**  
+**BSc (Hons) Computing, Upper Second-Class Honours (2:1)**  
 Birkbeck, University of London  
-Expected Graduation: 2026
+2022 – 2026
 
 ---
 
 ## Currently Learning
+
+Alongside DevOps training with CoderCo and my own projects:
 
 - Kubernetes
 - Linux Administration
@@ -90,6 +77,6 @@ Expected Graduation: 2026
 
 ## Contact
 
-Currently seeking opportunities in Cloud Engineering, DevOps, Platform Engineering, Site Reliability Engineering, Infrastructure Engineering, Solutions Engineering, and Cloud Sales Engineering.
+Currently seeking opportunities in Cloud Engineering, DevOps, Platform Engineering, Site Reliability Engineering, Infrastructure Engineering, Solutions Engineering and Cloud Sales Engineering.
 
 **Email:** [abdishakurabdi14@gmail.com](mailto:abdishakurabdi14@gmail.com)
